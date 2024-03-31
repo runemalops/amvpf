@@ -1,8 +1,6 @@
 media
 
 **/__pycache__
-
-venv
 amvenv
 
 db.sqlite3
